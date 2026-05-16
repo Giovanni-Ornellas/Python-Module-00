@@ -27,7 +27,7 @@ Caso deseje executar apenas um arquivo específico, utilize:
 ```python
 if __name__ == "__main__":
     nome_da_funcao()
-``
+```
 
 Que ele executára somente o arquivo em questão. 
 
