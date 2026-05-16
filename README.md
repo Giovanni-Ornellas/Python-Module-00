@@ -2,7 +2,7 @@
 
 # Python Module 00
 
-42 Rio recently went through a curriculum change and introduced Python as the dominant language in most Common Core projects — a cycle of up to two years composed of projects and exams divided into ranks.
+42 Rio recently went through a curriculum change and introduced Python as the dominant language in most Common Core projects - a cycle of up to two years composed of projects and exams divided into ranks.
 
 Because of this change, 11 Python modules were introduced so that cadets can become familiar with the language before starting more complex projects. This module is the first in that sequence.
 
