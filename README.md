@@ -2,44 +2,44 @@
 
 # Python Module 00
 
-A 42 Rio passou por uma mudança de currículo e introduziu a linguagem Python como dominante na maioria dos projetos do Common Core — um ciclo de até dois anos composto por projetos e provas divididos por ranks.
+42 Rio recently went through a curriculum change and introduced Python as the dominant language in most Common Core projects — a cycle of up to two years composed of projects and exams divided into ranks.
 
-Por conta disso, foram introduzidas 11 listas de Python para que os cadetes possam se familiarizar com a linguagem antes de iniciarem projetos mais complexos. A presente lista é a primeira dessa sequência.
+Because of this change, 11 Python modules were introduced so that cadets can become familiar with the language before starting more complex projects. This module is the first in that sequence.
 
 # Description
 
-O projeto consiste em uma sequência de sete exercícios cobrindo os seguintes conceitos:
+This project consists of a sequence of seven exercises covering the following concepts:
 
 1. Type Hints
-2. Input de Dados
-3. Tipos de Dados
+2. Data Input
+3. Data Types
 4. Type Casting
-5. Formas de Print
-6. Uso de `range`
-7. Recursividade
+5. Print Formats
+6. Usage of `range`
+7. Recursion
 
 # Instructions
 
-Para executar os exercícios, basta rodar a `main`, que executará todos os exercícios em sequência.
+To execute all exercises, simply run the `main`, which will execute each exercise sequentially.
 
-Caso deseje executar apenas um arquivo específico, utilize:
+If you want to execute only a specific file, use:
 
 ```python
 if __name__ == "__main__":
-    nome_da_funcao()
+    function_name()
 ```
 
-Que ele executára somente o arquivo em questão. 
+This will execute only the selected file.
 
-Além disso, todos os arquivos seguem as normas do flake8 e mypy, que podem ser testados rodando o comando:
+In addition, all files follow the flake8 and mypy standards, which can be tested using:
 
 > flake8 & mypy . --strict
 
-O ChatGPT foi utilizado como ferramenta auxiliar de pesquisa quando determinados conteúdos não estavam suficientemente claros nas fontes consultadas ou quando as explicações encontradas eram pouco detalhadas.
+ChatGPT was used as an auxiliary research tool whenever certain concepts were not sufficiently clear in the consulted sources or when the available explanations lacked detail
 
 # Resources
 
 - Type Hints: https://hub.asimov.academy/tutorial/type-hints-em-python-um-guia-completo/
-- Tipos de Print: https://www.datacamp.com/pt/tutorial/python-print-function
+- Print Formats: https://www.datacamp.com/pt/tutorial/python-print-function
 - Range: https://hub.asimov.academy/blog/range-em-python/
-- Recursividade: https://embarcados.com.br/recursividade/
+- Recursion: https://embarcados.com.br/recursividade/
